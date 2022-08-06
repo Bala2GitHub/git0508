@@ -3,7 +3,7 @@ package org.emp;
 public class Employee {
 	
   public void empId() {
-	
+	System.out.println("12345");
 }
   private void empName() {
 System.out.println("Balamurugan S");
