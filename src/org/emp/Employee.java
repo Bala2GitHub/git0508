@@ -2,9 +2,17 @@ package org.emp;
 
 public class Employee {
 	
-  public void empCurrentLocation() {
-	System.out.println("Chennai");
-}
+//<<<<<<< HEAD
+//  
+//=======
+//  
+//>>>>>>> 6d355ea63e7e9ea96da73f651202f53b3516e1b4
+//}
+
+public void empCurrentLocation() {
+	System.out.println("Chennai"); }
+public void empId() {
+	System.out.println("12345"); }
   private void empName() {
 System.out.println("Balamurugan S");
 }
