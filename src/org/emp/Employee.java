@@ -2,8 +2,8 @@ package org.emp;
 
 public class Employee {
 	
-  public void empId() {
-	System.out.println("12345");
+  public void empCurrentLocation() {
+	System.out.println("Chennai");
 }
   private void empName() {
 System.out.println("Balamurugan S");
